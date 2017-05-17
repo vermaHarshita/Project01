@@ -8,7 +8,7 @@ var _ = require('underscore');
 // var logger=require('./logger');
 import * as organisationHierarchy from './organisation'
 import {getResponse,postResponse,putResponse,deleteResponse,duplicateResponse} from "../../share/response.model";
-import forEach = ts.forEach;
+//import forEach = ts.forEach;
 const util = require('util');
 import * as user from '../user/user';
 
